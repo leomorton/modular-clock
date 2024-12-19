@@ -12,7 +12,7 @@ export default function HomePage() {
   }, []);
 
   return (
-    <main className="flex min-h-screen items-center justify-center gap-4 bg-gradient-to-b from-black to-indigo-950 text-white">
+    <main className="flex min-h-screen items-center justify-center gap-px bg-gradient-to-b from-black to-indigo-950 text-white">
       <Digit number={Math.floor((time.getHours() / 10) % 10)} />
       <Digit number={Math.floor((time.getHours() / 1) % 10)} />
       <Divider visible={Boolean(time.getSeconds() % 2)} />

@@ -18,13 +18,15 @@ const Divider = (props: DividerProps) => {
 
   return (
     <div className="grid grid-cols-1 grid-rows-3">
-      <div className="h-16 w-16"></div>
+      <div className="h-[33vh] max-h-16 w-[7vw] max-w-16"></div>
       <div
         id="one"
-        className={"h-16 w-16 rounded-full bg-indigo-400 transition-all"}
+        className={
+          "h-[33vh] max-h-16 w-[7vw] max-w-16 rounded-full bg-indigo-400 transition-all"
+        }
         ref={oneRef}
       ></div>
-      <div className="h-16 w-16"></div>
+      <div className="h-[33vh] max-h-16 w-[7vw] max-w-16"></div>
     </div>
   );
 };

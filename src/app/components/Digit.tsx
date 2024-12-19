@@ -168,35 +168,35 @@ const Digit = (props: DigitProps) => {
     }
   }, [props.number]);
   return (
-    <div className="grid grid-cols-2 grid-rows-3">
+    <div className="grid grid-cols-2 grid-rows-3 gap-px">
       <div
         id="one"
-        className="h-16 w-16 bg-indigo-300 transition-all"
+        className="h-[33vh] max-h-16 w-[7vw] max-w-16 bg-indigo-300 transition-all"
         ref={oneRef}
       ></div>
       <div
         id="two"
-        className="h-16 w-16 bg-indigo-300 transition-all"
+        className="h-[33vh] max-h-16 w-[7vw] max-w-16 bg-indigo-300 transition-all"
         ref={twoRef}
       ></div>
       <div
         id="three"
-        className="h-16 w-16 bg-indigo-300 transition-all"
+        className="h-[33vh] max-h-16 w-[7vw] max-w-16 bg-indigo-300 transition-all"
         ref={threeRef}
       ></div>
       <div
         id="four"
-        className="h-16 w-16 bg-indigo-300 transition-all"
+        className="h-[33vh] max-h-16 w-[7vw] max-w-16 bg-indigo-300 transition-all"
         ref={fourRef}
       ></div>
       <div
         id="five"
-        className="h-16 w-16 bg-indigo-300 transition-all"
+        className="h-[33vh] max-h-16 w-[7vw] max-w-16 bg-indigo-300 transition-all"
         ref={fiveRef}
       ></div>
       <div
         id="six"
-        className="h-16 w-16 bg-indigo-300 transition-all"
+        className="h-[33vh] max-h-16 w-[7vw] max-w-16 bg-indigo-300 transition-all"
         ref={sixRef}
       ></div>
     </div>

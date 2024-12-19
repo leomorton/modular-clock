@@ -1,3 +1,243 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.one-1 {
+  border-radius: 100% 0% 0% 0%;
+}
+
+.one-2 {
+  border-radius: 0%;
+}
+
+.one-3 {
+  border-radius: 100%;
+}
+
+.one-4 {
+  border-radius: 0%;
+}
+
+.one-5 {
+  border-radius: 100%;
+}
+
+.one-6 {
+  border-radius: 0% 0% 0% 0%;
+}
+
+.two-1 {
+  border-radius: 100% 0% 0% 0%;
+}
+
+.two-2 {
+  border-radius: 0% 100% 0% 0%;
+}
+
+.two-3 {
+  border-radius: 100% 0% 0% 0%;
+}
+
+.two-4 {
+  border-radius: 0% 0% 100% 0%;
+}
+
+.two-5 {
+  border-radius: 0%;
+}
+
+.two-6 {
+  border-radius: 0%;
+}
+
+.three-1 {
+  border-radius: 0% 0% 0% 100%;
+}
+
+.three-2 {
+  border-radius: 0% 100% 0% 0%;
+}
+
+.three-3 {
+  border-radius: 0% 0% 0% 100%;
+}
+
+.three-4 {
+  border-radius: 0%;
+}
+
+.three-5 {
+  border-radius: 0% 0% 0% 100%;
+}
+
+.three-6 {
+  border-radius: 0% 0% 100% 0%;
+}
+
+.four-1 {
+  border-radius: 0% 100% 0% 0%;
+}
+
+.four-2 {
+  border-radius: 0%;
+}
+
+.four-3 {
+  border-radius: 0% 0% 0% 100%;
+}
+
+.four-4 {
+  border-radius: 0%;
+}
+
+.four-5 {
+  border-radius: 100%;
+}
+
+.four-6 {
+  border-radius: 0%;
+}
+
+.five-1 {
+  border-radius: 0%;
+}
+
+.five-2 {
+  border-radius: 0%;
+}
+
+.five-3 {
+  border-radius: 0% 0% 0% 100%;
+}
+
+.five-4 {
+  border-radius: 0% 100% 0% 0%;
+}
+
+.five-5 {
+  border-radius: 0% 0% 0% 100%;
+}
+
+.five-6 {
+  border-radius: 0% 0% 100% 0%;
+}
+
+.six-1 {
+  border-radius: 100% 0% 0% 0%;
+}
+
+.six-2 {
+  border-radius: 0%;
+}
+
+.six-3 {
+  border-radius: 0%;
+}
+
+.six-4 {
+  border-radius: 0% 100% 0% 0%;
+}
+
+.six-5 {
+  border-radius: 0% 0% 0% 100%;
+}
+
+.six-6 {
+  border-radius: 0% 0% 100% 0%;
+}
+
+.seven-1 {
+  border-radius: 0% 0% 0% 100%;
+}
+
+.seven-2 {
+  border-radius: 0%;
+}
+
+.seven-3 {
+  border-radius: 100% 0% 0% 0%;
+}
+
+.seven-4 {
+  border-radius: 0% 0% 100% 0%;
+}
+
+.seven-5 {
+  border-radius: 0%;
+}
+
+.seven-6 {
+  border-radius: 100%;
+}
+
+.eight-1 {
+  border-radius: 100% 0% 50% 0%;
+}
+
+.eight-2 {
+  border-radius: 0% 100% 0% 50%;
+}
+
+.eight-3 {
+  border-radius: 0% 100% 100% 0%;
+}
+
+.eight-4 {
+  border-radius: 100% 0% 0% 100%;
+}
+
+.eight-5 {
+  border-radius: 0% 50% 0% 100%;
+}
+
+.eight-6 {
+  border-radius: 50% 0% 100% 0%;
+}
+
+.nine-1 {
+  border-radius: 100% 0% 0% 0%;
+}
+
+.nine-2 {
+  border-radius: 0% 100% 0% 0%;
+}
+
+.nine-3 {
+  border-radius: 0% 0% 0% 100%;
+}
+
+.nine-4 {
+  border-radius: 0%;
+}
+
+.nine-5 {
+  border-radius: 0% 0% 0% 100%;
+}
+
+.nine-6 {
+  border-radius: 0% 0% 100% 0%;
+}
+
+.zero-1 {
+  border-radius: 100% 0% 0% 0%;
+}
+
+.zero-2 {
+  border-radius: 0% 100% 0% 0%;
+}
+
+.zero-3 {
+  border-radius: 0%;
+}
+
+.zero-4 {
+  border-radius: 0%;
+}
+
+.zero-5 {
+  border-radius: 0% 0% 0% 100%;
+}
+
+.zero-6 {
+  border-radius: 0% 0% 100% 0%;
+}
